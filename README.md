@@ -1,6 +1,6 @@
 ## Hi! My name is Dener Araujo, but you may know me as Akehaa
 
-I am a Front-end Web Developer based in Brazil
+I am a Front-end Developer based in Brazil
 that loves learning new techs and has lots of curiosity.
 
 <div style="display: inline_block"><br>
