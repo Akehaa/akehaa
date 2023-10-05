@@ -2,7 +2,7 @@
 **Currently learning back-end**
 
 I am a Front-end Developer based in Brazil
-that loves learning new techs and has lots of curiosity.
+that loves learning new techs and it's extremely curious.
 
 
 
