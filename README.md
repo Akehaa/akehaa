@@ -1,7 +1,10 @@
 ## Hi! My name is Dener Araujo, but you may know me as @Akehaa
+**Currently learning back-end**
 
 I am a Front-end Developer based in Brazil
 that loves learning new techs and has lots of curiosity.
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
