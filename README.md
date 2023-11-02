@@ -1,4 +1,4 @@
-## Hi! My name is Dener Araujo, but you may know me as @Akehaa
+## Hi! My name is Dener Araujo
 **Currently learning back-end**
 
 I am a Front-end Developer based in Brazil
