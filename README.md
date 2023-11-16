@@ -1,7 +1,6 @@
 ## Hi! My name is Dener Araujo
-**Currently learning back-end**
 
-I am a Front-end Developer based in Brazil
+I am a Fullstack Developer based in Brazil
 that loves learning new techs and it's extremely curious.
 
 
@@ -19,6 +18,6 @@ that loves learning new techs and it's extremely curious.
   ##
  
 <div>
-  <a href="https://www.linkedin.com/in/akehaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "mailto:akehaa.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/deneruaraujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "mailto:deneruaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
