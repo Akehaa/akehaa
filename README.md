@@ -1,6 +1,6 @@
 ## Hi! My name is Dener Araujo
 
-I am a FullStack Developer based in Brazil
+I am a Full Stack Developer based in Brazil
 that loves learning new techs and it's extremely curious.
 
 
