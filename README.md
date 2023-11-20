@@ -19,7 +19,6 @@ that loves learning new techs and it's extremely curious.
   <img align="center" alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="prisma" height="30" width="40" src="https://img.icons8.com/?size=256&id=YKKmRFS8Utmm&format=png">
-  <img align="center" alt="Cloudflare R2" height="42" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Cloudflare_Logo.png">
 </div>
   
   ##
