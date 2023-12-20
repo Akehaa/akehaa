@@ -1,7 +1,6 @@
 ## Hi! My name is Dener Araujo
 
-I am a Full Stack Developer based in Brazil
-that loves learning new techs and it's extremely curious.
+I am a Full Stack Web Developer based in Brazil that loves learning new techs and it's extremely curious.
 
 
 
@@ -15,7 +14,8 @@ that loves learning new techs and it's extremely curious.
   <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="prisma" height="30" width="40" src="https://vitest.dev/logo.svg">
+  <img align="center" alt="vitest" height="30" width="40" src="https://vitest.dev/logo.svg">
+  <img align="center" alt="jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="prisma" height="30" width="40" src="https://img.icons8.com/?size=256&id=YKKmRFS8Utmm&format=png">
@@ -25,5 +25,5 @@ that loves learning new techs and it's extremely curious.
  
 <div>
   <a href="https://www.linkedin.com/in/deneruaraujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "mailto:deneruaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:deneruaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
